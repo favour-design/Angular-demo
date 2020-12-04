@@ -1,0 +1,17 @@
+@import "~bootstrap/dist/css/bootstrap.css"; 
+
+.logo {
+    font-size: 2.5rem;
+    font-style: italic;
+    font-weight: 500;
+    font-family: lato,;
+}
+.fav {
+    font-size: 2.5rem;
+    font-style: italic;
+    font-weight: 500;
+    font-family: lato,;
+    color: aqua;
+    
+   
+}

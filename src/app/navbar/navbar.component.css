@@ -1,0 +1,30 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.nav1 ul {
+    list-style: none;
+    margin-left: 10rem;
+}
+.nav1 a {
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 1rem;
+}
+.nav1 li {
+    display: inline-block;
+    margin-top: 1.5rem;
+    margin-right: 12rem;
+    font-size: 1rem;
+  
+}
+.nav1 ul li a {
+    font-family: poppsin;
+    color: black;
+}
+.logo {
+    color: gold;
+}
+.a:hover {
+    background-color: honeydew;
+    color: blue;
+    border: 1px solid black;
+}
